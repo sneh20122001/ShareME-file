@@ -2,8 +2,6 @@
   "name": "Backend",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sneh20122001/ShareME-file.git",
-  "author": "sneh20122001 <snehpatel19@gnu.ac.in>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon server.js",
